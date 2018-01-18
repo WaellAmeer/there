@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Waell Ameer Pages
 
 You can use the [editor on GitHub](https://github.com/WaellAmeer/they/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
